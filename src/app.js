@@ -7,8 +7,12 @@ btn.addEventListener('click', getAdvice)
 
 async function getAdvice() {
     try {
+        let options = {
+            method: 'GET',
+            cache: 'no-cache'
+        }
         const url = 'https://api.adviceslip.com/advice';
-        const res = await fetch(url);
+        const res = await fetch(url, options);
         const data = await res.json();
 
         // console.log(data)
