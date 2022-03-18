@@ -15,8 +15,8 @@ The solution should look like this:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+- Live Site URL: [Add live site URL here](https://carlosreyes84.github.io/Advice-Generator/)
 
 ## My process
 
